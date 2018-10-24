@@ -1,4 +1,4 @@
-<view>
+<view class='box'>
   <swiper indicator-dots="true" autoplay="true" interval="3000" class='banner'>
     <swiper-item><image src='./img/1.jpg'></image></swiper-item>
     <swiper-item><image src='./img/2.jpg'></image></swiper-item>
@@ -14,6 +14,12 @@
       <image             src='http://n.sinaimg.cn/sports/transform/500/w300h200/20180527/Eltt-fzrwiaz5967544.jpg'></image>
     </view>
     <text class='cont_intro'>小组赛首战不敌利物浦后，巴黎圣日耳曼迎来了本赛季欧冠的第二场比赛，对手是实力稍弱的贝尔格莱德红星，内马尔上演帽子戏法，率领球队6-1狂胜对手，迎来欧冠首胜，比赛中内马尔打进了两个非常漂亮的任意球。</text>
+    <view class='user_like'>
+      <image src='./img/star.png'></image>
+      <text>92</text>
+      <image src='./img/chat.png'></image>
+      <text>68</text>
+    </view>
   </view>
   </view>
 </view>
